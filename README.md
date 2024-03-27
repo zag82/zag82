@@ -1,5 +1,3 @@
-# Andrey Zhdanov
-
 ## Hi there
 
 - I’m currently working on interesting apps in Golang for mobile and desktop communications
